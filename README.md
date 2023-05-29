@@ -16,6 +16,8 @@
 
 ### [Structured Data Markup Helper(Google)](https://www.google.com/webmasters/markup-helper/)
 
+# Credits
+
 Exercises by Jen Kramer on linkedin course:
 
 [HTML: Structured Semantic Data](https://www.linkedin.com/learning/html-structured-semantic-data/)
